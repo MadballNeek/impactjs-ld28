@@ -5,6 +5,7 @@ weltmeister.html
 .idea/
 *.ipr
 *.iws
+*.iml
 design/
 impactjs-overtime.iml
 game.min.js
