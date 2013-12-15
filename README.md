@@ -1,4 +1,14 @@
-## Ludum Dare 28
+## Ludum Dare 28 - You Only Get One Chance
+====
+Developed in 48 hours by Nicholas DiMucci with ImpactJS
+
+* http://mindshaftgames.appspot.com/
+* http://www.impactjs.com/
+
+Plugins Credit:
+* eventChain.js - https://github.com/drhayes/impactjs-eventchain
+* stateMachine.js - https://github.com/drhayes/impactjs-statemachine
+* impact-storage.js - https://github.com/jsantell/ImpactStorage
 
 The MIT License (MIT)
 
@@ -20,4 +30,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTW
+SOFTWARE.
